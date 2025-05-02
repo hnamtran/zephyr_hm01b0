@@ -1,0 +1,26 @@
+&pio0 {
+    status = "okay";
+};
+&pio1 {
+    status = "okay";
+};
+
+&pwm {
+    status = "okay";
+};
+
+&dma {
+    status = "okay";
+};
+
+&spi1 {
+    status = "okay";
+};
+
+&i2c0 {
+    status = "okay";
+};
+
+&i2c1 {
+    status = "okay";
+};
